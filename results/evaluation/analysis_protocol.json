@@ -1,0 +1,36 @@
+{
+  "version": 3,
+  "analysis_type": "post_hoc_exploratory_reanalysis",
+  "reason": "Assessor clarified that user_relevance measures joint relevance to current need and historical interests; retain both criteria. Use shared query-IDCG for identical queries.",
+  "unchanged": [
+    "rankings",
+    "scenarios",
+    "labels",
+    "models",
+    "alpha=0.8",
+    "precision_positive_label=2",
+    "gain=2**relevance-1"
+  ],
+  "supported_criteria_by_context": {
+    "broad": [
+      "query_relevance",
+      "user_relevance"
+    ],
+    "history_aligned": [
+      "query_relevance",
+      "user_relevance"
+    ],
+    "history_conflict": [
+      "query_relevance",
+      "user_relevance"
+    ],
+    "history_only": [
+      "user_relevance"
+    ]
+  },
+  "query_idcg": "Union of judged articles with identical query and information_need, deduplicated by article_id.",
+  "user_idcg": "Original judged pool of each individual scenario.",
+  "group_means": "Equal-weight scenario means within each context; undefined NDCG excluded with counts.",
+  "user_relevance_interpretation": "Joint scenario relevance, not observed satisfaction and not history relevance alone. Lack of grade 2 in conflicting contexts does not establish a labelling error.",
+  "no_relabelling": true
+}

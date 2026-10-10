@@ -1,0 +1,13 @@
+﻿scenario_id,query,prototype_matches_frozen_order,external_matches_prototype_order,external_matches_prototype_set,top10_overlap
+test_01,новости науки и технологий,True,True,True,10
+test_02,новости науки и технологий,True,True,True,10
+test_03,новости культуры,True,True,True,10
+test_04,новости культуры,True,True,True,10
+test_05,экономические санкции против России,True,True,True,10
+test_06,экономические санкции против России,True,True,True,10
+test_07,чемпионат мира по футболу 2018,True,True,True,10
+test_08,чемпионат мира по футболу 2018,True,True,True,10
+test_09,ипотека и покупка жилья,True,True,True,10
+test_10,ипотека и покупка жилья,True,True,True,10
+test_11,запуски космических ракет,True,True,True,10
+test_12,запуски космических ракет,True,True,True,10

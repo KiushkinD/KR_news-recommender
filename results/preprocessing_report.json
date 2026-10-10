@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "source": "/Users/denis/Desktop/news-recommender/data/raw/lenta-ru-news.csv.bz2",
+  "raw_rows": 800975,
+  "invalid_dates_in_raw": 0,
+  "period": {
+    "start_inclusive": "2018-01-01",
+    "end_exclusive": "2019-01-01"
+  },
+  "rows_in_period_before_cleaning": 43951,
+  "empty_fields_in_period": {
+    "url": 0,
+    "title": 0,
+    "text": 0
+  },
+  "removals_sequential": {
+    "empty_url_title_or_text": 0,
+    "duplicate_url": 0,
+    "duplicate_normalized_title_and_text": 1
+  },
+  "final_rows": 43950,
+  "selection": "all eligible rows; no sampling or topic filtering",
+  "text_normalization": "collapse whitespace and strip; preserve case and punctuation",
+  "deduplication": "URL first, then exact normalized (title, text); keep first source row",
+  "missing_topic": 2079,
+  "missing_tags": 697,
+  "min_date": "2018-01-01",
+  "max_date": "2018-12-31",
+  "month_counts": {
+    "2018-01": 3336,
+    "2018-02": 3523,
+    "2018-03": 3683,
+    "2018-04": 3494,
+    "2018-05": 3543,
+    "2018-06": 3432,
+    "2018-07": 3713,
+    "2018-08": 3685,
+    "2018-09": 3610,
+    "2018-10": 4072,
+    "2018-11": 3851,
+    "2018-12": 4008
+  },
+  "topic_counts": {
+    "Мир": 5873,
+    "Россия": 5721,
+    "Спорт": 4605,
+    "Экономика": 4158,
+    "Интернет и СМИ": 3294,
+    "Из жизни": 2947,
+    "Наука и техника": 2942,
+    "Бывший СССР": 2804,
+    "Культура": 2642,
+    "Силовые структуры": 2140,
+    "Не указано": 2079,
+    "Дом": 1669,
+    "Ценности": 1600,
+    "Путешествия": 1013,
+    "69-я параллель": 343,
+    "Крым": 88,
+    "Культпросвет": 30,
+    "Бизнес": 2
+  },
+  "pandas_version": "2.3.3"
+}

@@ -1,0 +1,415 @@
+{
+  "created_at_utc": "2026-10-10T10:32:27.288689+00:00",
+  "passed": true,
+  "runs_checked": 56,
+  "runs_matched": 56,
+  "score_absolute_tolerance": 1e-06,
+  "input_files_unchanged": true,
+  "input_sha256_before": {
+    "results/test_runs.json": "e2ee66be721d1e794dd82fe9ff903f283a82d24640272bf24d8441141f37cd65",
+    "results/test_scenarios.json": "998ee4f5773cc1d2dd9d6f328c0d5044592634a2e58a730183af33ab24653eff",
+    "results/test_annotations.csv": "6a4784b322920b8cc7011bacbef5a38d20a7eb64c1be9145a975a8977c75843e"
+  },
+  "input_sha256_after": {
+    "results/test_runs.json": "e2ee66be721d1e794dd82fe9ff903f283a82d24640272bf24d8441141f37cd65",
+    "results/test_scenarios.json": "998ee4f5773cc1d2dd9d6f328c0d5044592634a2e58a730183af33ab24653eff",
+    "results/test_annotations.csv": "6a4784b322920b8cc7011bacbef5a38d20a7eb64c1be9145a975a8977c75843e"
+  },
+  "recommender_sha256": "68e89a1be7d92c7922a71600ff0731731566ceebfd7a0145f89a51030a561a04",
+  "device_requested": "auto",
+  "max_score_delta": 0.0,
+  "comparisons": [
+    {
+      "scenario_id": "test_01",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_01",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_01",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_01",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_02",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_02",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_02",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_02",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_03",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_03",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_03",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_03",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_04",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_04",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_04",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_04",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_05",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_05",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_05",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_05",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_06",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_06",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_06",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_06",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_07",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_07",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_07",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_07",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_08",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_08",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_08",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_08",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_09",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_09",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_09",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_09",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_10",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_10",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_10",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_10",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_11",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_11",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_11",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_11",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_12",
+      "config_id": "tfidf_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_12",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_12",
+      "config_id": "e5_query_only",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "test_12",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_01",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_01",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_02",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_02",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_03",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_03",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_04",
+      "config_id": "tfidf_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    },
+    {
+      "scenario_id": "feed_04",
+      "config_id": "e5_personalized",
+      "passed": true,
+      "max_score_delta": 0.0,
+      "differences": []
+    }
+  ]
+}

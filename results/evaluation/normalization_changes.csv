@@ -1,0 +1,9 @@
+﻿scenario_id,config_id,criterion,ndcg_v1,ndcg_v2
+test_04,tfidf_query_only,query_relevance,0.7641123142297334,0.7253908456592426
+test_04,tfidf_personalized,query_relevance,0.7641123142297334,0.7253908456592426
+test_04,e5_query_only,query_relevance,0.38199532978249556,0.3626376779284514
+test_04,e5_personalized,query_relevance,0.43410502201909207,0.412106706256639
+test_10,tfidf_query_only,query_relevance,0.7637331427208038,0.7206557787522494
+test_10,tfidf_personalized,query_relevance,0.7637331427208038,0.7206557787522494
+test_10,e5_query_only,query_relevance,0.812981346043456,0.7671262019045013
+test_10,e5_personalized,query_relevance,0.6321423354678664,0.5964871780029557

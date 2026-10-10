@@ -1,0 +1,36 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "device": "mps",
+  "corpus_size": 43950,
+  "input_path": "/Users/denis/Desktop/news-recommender/data/processed/news_2018.csv",
+  "shared_text_path": "/Users/denis/Desktop/news-recommender/data/processed/news_2018_model_text.csv",
+  "embeddings_path": "/Users/denis/Desktop/news-recommender/models/news_embeddings.npy",
+  "article_ids_path": "/Users/denis/Desktop/news-recommender/models/news_article_ids.json",
+  "corpus_model_text_sha256": "b8f10b63667bebec74ae95a337c84d860a5cbb37df9472dfe66e9f207cbcef03",
+  "document_format": "title + newline + text; original-string prefix fitting E5 token budget",
+  "document_prefix": "passage: ",
+  "query_prefix": "query: ",
+  "max_seq_length": 256,
+  "token_budget_includes": "passage prefix and model special tokens",
+  "batch_size": 16,
+  "shortened_articles": 34604,
+  "max_document_tokens": 256,
+  "mean_document_tokens": 247.86298065984073,
+  "embedding_shape": [
+    43950,
+    384
+  ],
+  "embedding_dtype": "float32",
+  "normalized_embeddings": true,
+  "text_preparation_seconds": 9.245657334000002,
+  "encode_seconds": 262.827820375,
+  "articles_per_second": 167.21974080709035,
+  "versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.0.2",
+    "torch": "2.8.0",
+    "sentence-transformers": "5.1.2",
+    "transformers": "4.57.6"
+  }
+}

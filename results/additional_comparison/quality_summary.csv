@@ -1,0 +1,13 @@
+﻿context_type,implementation,criterion,n_contexts,n_fully_judged,precision_at_5,precision_at_10,ndcg_at_10
+broad,prototype_e5_query_only,query_relevance,4,4,0.5,0.6,0.6387472801434152
+broad,prototype_e5_query_only,user_relevance,4,4,0.15000000000000002,0.175,0.4469265265226554
+broad,st_semantic_search,query_relevance,4,4,0.5,0.6,0.6387472801434152
+broad,st_semantic_search,user_relevance,4,4,0.15000000000000002,0.175,0.4469265265226554
+history_aligned,prototype_e5_query_only,query_relevance,4,4,0.75,0.75,0.8773900868468406
+history_aligned,prototype_e5_query_only,user_relevance,4,4,0.7000000000000001,0.675,0.8534708330191264
+history_aligned,st_semantic_search,query_relevance,4,4,0.75,0.75,0.8773900868468406
+history_aligned,st_semantic_search,user_relevance,4,4,0.7000000000000001,0.675,0.8534708330191264
+history_conflict,prototype_e5_query_only,query_relevance,4,4,0.75,0.75,0.8773900868468406
+history_conflict,prototype_e5_query_only,user_relevance,4,4,0.0,0.0,0.9840948029502621
+history_conflict,st_semantic_search,query_relevance,4,4,0.75,0.75,0.8773900868468406
+history_conflict,st_semantic_search,user_relevance,4,4,0.0,0.0,0.9840948029502621

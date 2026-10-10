@@ -1,0 +1,1520 @@
+[
+  {
+    "implementation": "prototype_e5_query_only",
+    "query": "новости науки и технологий",
+    "result": {
+      "method": "e5",
+      "query": "новости науки и технологий",
+      "history_considered": [],
+      "history_used": [],
+      "history_ignored_oov": [],
+      "alpha_requested": 1.0,
+      "effective_alpha": 1.0,
+      "mode": "query_only",
+      "status": "ok",
+      "messages": [],
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_3d284e416393ba2ec44474bd17b9a3ce1d723d30dbe19cf9051d31923d12545c",
+          "title": "Найден способ заряжать смартфон от воздуха",
+          "date": "2018-02-19",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/19/mit/",
+          "score": 0.8540984475269671,
+          "query_score": 0.8540984475269671,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_f4ecab46bc9773baafa4df8f8f68f3d8ecc3eaefa4bd5bb96e57a18c918f830a",
+          "title": "Надежность вооружений РВСН проверили на кондиционере",
+          "date": "2018-01-15",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/15/rvsn/",
+          "score": 0.8480427269466582,
+          "query_score": 0.8480427269466582,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_648641b154aed8840fd386d090a3c00db0bca68c2b2ee4dea8edcfd916105705",
+          "title": "Предсказана внезапная глобальная катастрофа",
+          "date": "2018-08-23",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/08/23/pole/",
+          "score": 0.8465747931011312,
+          "query_score": 0.8465747931011312,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_013ca7361fb51d2d4ed4a9e4198363ac3d3340d47f738a316cf033cf2fe3c498",
+          "title": "Структура Росатома создаст новое оборудование для изучения Луны и Марса",
+          "date": "2018-04-12",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/04/12/rosatom_cosmos/",
+          "score": 0.8464443272016184,
+          "query_score": 0.8464443272016184,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_75806a8412d090765a61f60a8fc26c119f6a7277f4cfd2e7f7b492468e5e2411",
+          "title": "В России появится новая госкомпания",
+          "date": "2018-10-12",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/10/12/new_company/",
+          "score": 0.8462400004705992,
+          "query_score": 0.8462400004705992,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_fd5de8ee3b12e471b2ee388ef74d884d13ea77075ce784145eafe29627ab1949",
+          "title": "Обнаружен загадочный инопланетный сигнал",
+          "date": "2018-08-02",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/08/02/radioburst/",
+          "score": 0.8461268731824974,
+          "query_score": 0.8461268731824974,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_b8137f9d6d7ed65a6a7a2c682aae591ef2f6b19ced30e9ec052b7fa4f66d675c",
+          "title": "Америка натренирует раков для глобального шпионажа",
+          "date": "2018-03-01",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/03/01/sea_animal/",
+          "score": 0.8460194328994204,
+          "query_score": 0.8460194328994204,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_aeb633c15fbe680c895970c9f7b83e427d41d9f251f99a9be29ff2d8f186a0fc",
+          "title": "В Европе создадут грузовики для перевозки взрывающейся антиматерии",
+          "date": "2018-02-21",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/21/antimatter/",
+          "score": 0.8443163820222843,
+          "query_score": 0.8443163820222843,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_60f23cc71af7cba92b7ae35368d8d8c4bf5a7a808a03b5ef570e4cc23034b548",
+          "title": "«Роскосмос» рассказал о летающих островах на Нептуне",
+          "date": "2018-07-26",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/26/neptune/",
+          "score": 0.8438564673031781,
+          "query_score": 0.8438564673031781,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_248cdd6ab97f2adbcd6373ecc1334b46494b0d8533d8679e668df58cb6fad817",
+          "title": "Объяснено действие нарушающего законы физики двигателя",
+          "date": "2018-05-18",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/05/18/emdrive/",
+          "score": 0.8436323788306463,
+          "query_score": 0.8436323788306463,
+          "history_score": null
+        }
+      ],
+      "elapsed_seconds": 0.05851283400000007
+    }
+  },
+  {
+    "implementation": "st_semantic_search",
+    "query": "новости науки и технологий",
+    "result": {
+      "method": "st_semantic_search",
+      "query": "новости науки и технологий",
+      "mode": "query_only",
+      "status": "ok",
+      "history_used": [],
+      "effective_alpha": 1.0,
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_3d284e416393ba2ec44474bd17b9a3ce1d723d30dbe19cf9051d31923d12545c",
+          "title": "Найден способ заряжать смартфон от воздуха",
+          "date": "2018-02-19",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/19/mit/",
+          "score": 0.8540984392166138,
+          "query_score": 0.8540984392166138,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_f4ecab46bc9773baafa4df8f8f68f3d8ecc3eaefa4bd5bb96e57a18c918f830a",
+          "title": "Надежность вооружений РВСН проверили на кондиционере",
+          "date": "2018-01-15",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/15/rvsn/",
+          "score": 0.8480427265167236,
+          "query_score": 0.8480427265167236,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_648641b154aed8840fd386d090a3c00db0bca68c2b2ee4dea8edcfd916105705",
+          "title": "Предсказана внезапная глобальная катастрофа",
+          "date": "2018-08-23",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/08/23/pole/",
+          "score": 0.8465747833251953,
+          "query_score": 0.8465747833251953,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_013ca7361fb51d2d4ed4a9e4198363ac3d3340d47f738a316cf033cf2fe3c498",
+          "title": "Структура Росатома создаст новое оборудование для изучения Луны и Марса",
+          "date": "2018-04-12",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/04/12/rosatom_cosmos/",
+          "score": 0.8464443683624268,
+          "query_score": 0.8464443683624268,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_75806a8412d090765a61f60a8fc26c119f6a7277f4cfd2e7f7b492468e5e2411",
+          "title": "В России появится новая госкомпания",
+          "date": "2018-10-12",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/10/12/new_company/",
+          "score": 0.8462399840354919,
+          "query_score": 0.8462399840354919,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_fd5de8ee3b12e471b2ee388ef74d884d13ea77075ce784145eafe29627ab1949",
+          "title": "Обнаружен загадочный инопланетный сигнал",
+          "date": "2018-08-02",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/08/02/radioburst/",
+          "score": 0.8461268544197083,
+          "query_score": 0.8461268544197083,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_b8137f9d6d7ed65a6a7a2c682aae591ef2f6b19ced30e9ec052b7fa4f66d675c",
+          "title": "Америка натренирует раков для глобального шпионажа",
+          "date": "2018-03-01",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/03/01/sea_animal/",
+          "score": 0.846019446849823,
+          "query_score": 0.846019446849823,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_aeb633c15fbe680c895970c9f7b83e427d41d9f251f99a9be29ff2d8f186a0fc",
+          "title": "В Европе создадут грузовики для перевозки взрывающейся антиматерии",
+          "date": "2018-02-21",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/21/antimatter/",
+          "score": 0.8443163633346558,
+          "query_score": 0.8443163633346558,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_60f23cc71af7cba92b7ae35368d8d8c4bf5a7a808a03b5ef570e4cc23034b548",
+          "title": "«Роскосмос» рассказал о летающих островах на Нептуне",
+          "date": "2018-07-26",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/26/neptune/",
+          "score": 0.8438564538955688,
+          "query_score": 0.8438564538955688,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_248cdd6ab97f2adbcd6373ecc1334b46494b0d8533d8679e668df58cb6fad817",
+          "title": "Объяснено действие нарушающего законы физики двигателя",
+          "date": "2018-05-18",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/05/18/emdrive/",
+          "score": 0.8436324000358582,
+          "query_score": 0.8436324000358582,
+          "history_score": null
+        }
+      ]
+    }
+  },
+  {
+    "implementation": "prototype_e5_query_only",
+    "query": "новости культуры",
+    "result": {
+      "method": "e5",
+      "query": "новости культуры",
+      "history_considered": [],
+      "history_used": [],
+      "history_ignored_oov": [],
+      "alpha_requested": 1.0,
+      "effective_alpha": 1.0,
+      "mode": "query_only",
+      "status": "ok",
+      "messages": [],
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_ce837cba4366f189d71c2260b7419f81dd8e425c158e0cf7f0954220c87b62e7",
+          "title": "Ученые нашли универсальный для всех народов язык общения",
+          "date": "2018-01-27",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/27/muzika/",
+          "score": 0.8346244177353677,
+          "query_score": 0.8346244177353677,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_5c737bdae97ff736b536836a819ed3784c82fa612d7690a6f3d56b38fc7c5b41",
+          "title": "В Доме культуры под Киевом неизвестные в масках избили детей",
+          "date": "2018-03-13",
+          "topic": "Бывший СССР",
+          "url": "https://lenta.ru/news/2018/03/13/izbienie/",
+          "score": 0.8332606206105624,
+          "query_score": 0.8332606206105624,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_d0eccc45f6b2da22f5822ca904265aa8d1514741c6fe4baf694c4685995e6365",
+          "title": "Узбекистан поделился культурным наследием",
+          "date": "2018-03-16",
+          "topic": "Бывший СССР",
+          "url": "https://lenta.ru/news/2018/03/16/kultura_uzbekistan/",
+          "score": 0.8331769322654474,
+          "query_score": 0.8331769322654474,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_0db580d33f7509bbb5d0a2855bc7b80283c7fcb8800112f8040c0feaf1f2d0da",
+          "title": "Минкульт отчитался о рекордном росте зарплат музейщиков и библиотекарей",
+          "date": "2018-03-25",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/03/25/zarplata/",
+          "score": 0.8306771816981859,
+          "query_score": 0.8306771816981859,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_0a645088c644712a79e99145d2c015cca96d3ddb21def7d701e0c8ccc79af32c",
+          "title": "От актрисы-мусульманки потребовали сменить религию за фото в бикини",
+          "date": "2018-08-10",
+          "topic": "Ценности",
+          "url": "https://lenta.ru/news/2018/08/10/musliminbikini/",
+          "score": 0.8305582284753023,
+          "query_score": 0.8305582284753023,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_1aeae15bda567e7d0cdb15880c3f9d2c90f58066b7d60c149eefec78c78087da",
+          "title": "Автор Ждуна создала новое чудовище",
+          "date": "2018-10-04",
+          "topic": "Интернет и СМИ",
+          "url": "https://lenta.ru/news/2018/10/04/kakoy_ad/",
+          "score": 0.8287124423472592,
+          "query_score": 0.8287124423472592,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_4e6cce7777a86857d50087f43f0cc29b4f81d2bf536f1a40ce91d141ee8b99e1",
+          "title": "Мединский пообещал сократить статистическую отчетность",
+          "date": "2018-03-27",
+          "topic": "Культпросвет",
+          "url": "https://lenta.ru/news/2018/03/27/medinobeschal/",
+          "score": 0.8278362539974564,
+          "query_score": 0.8278362539974564,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_305e9f7de4b172ff1b7f30a32a159ab9c27568e721f13be6d1ad8071ab35a17f",
+          "title": "Мединский рассказал о мероприятиях Года культуры и туризма России и Турции",
+          "date": "2018-04-28",
+          "topic": "Культпросвет",
+          "url": "https://lenta.ru/news/2018/04/28/turc/",
+          "score": 0.8259968631129202,
+          "query_score": 0.8259968631129202,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_e3516fbbc6bbaa4b898c1c6dee5e225bac41f15276489bb30dff4ff62a2483d0",
+          "title": "Женщина устала прятать тело и решила шить купальники",
+          "date": "2018-06-04",
+          "topic": "Ценности",
+          "url": "https://lenta.ru/news/2018/06/04/playful/",
+          "score": 0.825612292383985,
+          "query_score": 0.825612292383985,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_0436b4879e419153a15651906f815c9815a74a00036851773bc77b078ef6fe1b",
+          "title": "Женщины возгордились послеродовыми растяжками и выставили их на обозрение",
+          "date": "2018-05-22",
+          "topic": "Интернет и СМИ",
+          "url": "https://lenta.ru/news/2018/05/22/postbaby_bodies/",
+          "score": 0.8255877594103214,
+          "query_score": 0.8255877594103214,
+          "history_score": null
+        }
+      ],
+      "elapsed_seconds": 0.06525075000000058
+    }
+  },
+  {
+    "implementation": "st_semantic_search",
+    "query": "новости культуры",
+    "result": {
+      "method": "st_semantic_search",
+      "query": "новости культуры",
+      "mode": "query_only",
+      "status": "ok",
+      "history_used": [],
+      "effective_alpha": 1.0,
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_ce837cba4366f189d71c2260b7419f81dd8e425c158e0cf7f0954220c87b62e7",
+          "title": "Ученые нашли универсальный для всех народов язык общения",
+          "date": "2018-01-27",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/27/muzika/",
+          "score": 0.8346244096755981,
+          "query_score": 0.8346244096755981,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_5c737bdae97ff736b536836a819ed3784c82fa612d7690a6f3d56b38fc7c5b41",
+          "title": "В Доме культуры под Киевом неизвестные в масках избили детей",
+          "date": "2018-03-13",
+          "topic": "Бывший СССР",
+          "url": "https://lenta.ru/news/2018/03/13/izbienie/",
+          "score": 0.8332606554031372,
+          "query_score": 0.8332606554031372,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_d0eccc45f6b2da22f5822ca904265aa8d1514741c6fe4baf694c4685995e6365",
+          "title": "Узбекистан поделился культурным наследием",
+          "date": "2018-03-16",
+          "topic": "Бывший СССР",
+          "url": "https://lenta.ru/news/2018/03/16/kultura_uzbekistan/",
+          "score": 0.8331769704818726,
+          "query_score": 0.8331769704818726,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_0db580d33f7509bbb5d0a2855bc7b80283c7fcb8800112f8040c0feaf1f2d0da",
+          "title": "Минкульт отчитался о рекордном росте зарплат музейщиков и библиотекарей",
+          "date": "2018-03-25",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/03/25/zarplata/",
+          "score": 0.8306772112846375,
+          "query_score": 0.8306772112846375,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_0a645088c644712a79e99145d2c015cca96d3ddb21def7d701e0c8ccc79af32c",
+          "title": "От актрисы-мусульманки потребовали сменить религию за фото в бикини",
+          "date": "2018-08-10",
+          "topic": "Ценности",
+          "url": "https://lenta.ru/news/2018/08/10/musliminbikini/",
+          "score": 0.8305582404136658,
+          "query_score": 0.8305582404136658,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_1aeae15bda567e7d0cdb15880c3f9d2c90f58066b7d60c149eefec78c78087da",
+          "title": "Автор Ждуна создала новое чудовище",
+          "date": "2018-10-04",
+          "topic": "Интернет и СМИ",
+          "url": "https://lenta.ru/news/2018/10/04/kakoy_ad/",
+          "score": 0.8287124037742615,
+          "query_score": 0.8287124037742615,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_4e6cce7777a86857d50087f43f0cc29b4f81d2bf536f1a40ce91d141ee8b99e1",
+          "title": "Мединский пообещал сократить статистическую отчетность",
+          "date": "2018-03-27",
+          "topic": "Культпросвет",
+          "url": "https://lenta.ru/news/2018/03/27/medinobeschal/",
+          "score": 0.827836275100708,
+          "query_score": 0.827836275100708,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_305e9f7de4b172ff1b7f30a32a159ab9c27568e721f13be6d1ad8071ab35a17f",
+          "title": "Мединский рассказал о мероприятиях Года культуры и туризма России и Турции",
+          "date": "2018-04-28",
+          "topic": "Культпросвет",
+          "url": "https://lenta.ru/news/2018/04/28/turc/",
+          "score": 0.8259968757629395,
+          "query_score": 0.8259968757629395,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_e3516fbbc6bbaa4b898c1c6dee5e225bac41f15276489bb30dff4ff62a2483d0",
+          "title": "Женщина устала прятать тело и решила шить купальники",
+          "date": "2018-06-04",
+          "topic": "Ценности",
+          "url": "https://lenta.ru/news/2018/06/04/playful/",
+          "score": 0.8256123065948486,
+          "query_score": 0.8256123065948486,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_0436b4879e419153a15651906f815c9815a74a00036851773bc77b078ef6fe1b",
+          "title": "Женщины возгордились послеродовыми растяжками и выставили их на обозрение",
+          "date": "2018-05-22",
+          "topic": "Интернет и СМИ",
+          "url": "https://lenta.ru/news/2018/05/22/postbaby_bodies/",
+          "score": 0.8255877494812012,
+          "query_score": 0.8255877494812012,
+          "history_score": null
+        }
+      ]
+    }
+  },
+  {
+    "implementation": "prototype_e5_query_only",
+    "query": "экономические санкции против России",
+    "result": {
+      "method": "e5",
+      "query": "экономические санкции против России",
+      "history_considered": [],
+      "history_used": [],
+      "history_ignored_oov": [],
+      "alpha_requested": 1.0,
+      "effective_alpha": 1.0,
+      "mode": "query_only",
+      "status": "ok",
+      "messages": [],
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_dce075eedced47fec33a0a24672d1b26dbc9789b3071dd11ecd5cd5813bf1923",
+          "title": "Подсчитаны потери российской экономики от санкций",
+          "date": "2018-11-16",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/11/16/sanctionsworking/",
+          "score": 0.8971177505436895,
+          "query_score": 0.8971177505436895,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_f67eb98f6ddba0e7ecc161bff369512b9ee2b50c12e595ec13ccc7c60e9662b4",
+          "title": "ЕС продлил экономические санкции против России",
+          "date": "2018-12-13",
+          "topic": "Мир",
+          "url": "https://lenta.ru/news/2018/12/13/sanctions/",
+          "score": 0.8948681163347147,
+          "query_score": 0.8948681163347147,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_e09f47eb193bb62b378d042fd56bbae0068685ce25453e198bbabb642fd83013",
+          "title": "Новые санкции США против России признали неэффективными",
+          "date": "2018-08-28",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/08/28/new_sanctions/",
+          "score": 0.8912553193928865,
+          "query_score": 0.8912553193928865,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_088f12b6730627edfc8ec7721b2e41f2e7d6a9de9ff423b1f81acb7d33437017",
+          "title": "Любой ответ на санкции США признали губительным для россиян",
+          "date": "2018-04-16",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/04/16/sanctions/",
+          "score": 0.888075218883819,
+          "query_score": 0.888075218883819,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_20e7cfbac47bd7eea466017cac0aca7ab00e445e5f767c3fb51afdb6d28083c3",
+          "title": "Санкции сорвали контракты России на 3 миллиарда долларов",
+          "date": "2018-02-21",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/02/21/gosdep/",
+          "score": 0.8871673199573953,
+          "query_score": 0.8871673199573953,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_cd070a046667f8116a3041fae139f8f90d973994658b64aafe7abb925cfc3798",
+          "title": "Политика российских властей оказалась страшнее санкций",
+          "date": "2018-07-10",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/07/10/sanctions_useless/",
+          "score": 0.884612580254176,
+          "query_score": 0.884612580254176,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_dcec53ec620e4342f823b05138766f009b3a295d69c47127d31b749ba4fead81",
+          "title": "Экономике России предрекли новый спад из-за санкций США",
+          "date": "2018-05-18",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/05/18/recession/",
+          "score": 0.8842522962610811,
+          "query_score": 0.8842522962610811,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_4ac81cd2f25b73a72a2bef1f5854df249ee6601ec418b8c5bf019641e741a251",
+          "title": "Раскрыты подробности новых санкций США против России",
+          "date": "2018-08-09",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/08/09/podrobnosti/",
+          "score": 0.8829770420954697,
+          "query_score": 0.8829770420954697,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_62a10aceee625bedc0abf7b811f89d8c193cd5c670d192a22ba87670c331d5d6",
+          "title": "Госдума приняла закон о контрсанкциях против США",
+          "date": "2018-05-22",
+          "topic": "Россия",
+          "url": "https://lenta.ru/news/2018/05/22/otvet/",
+          "score": 0.8819170282923983,
+          "query_score": 0.8819170282923983,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_9db3ca15c56f2f320872b343f755060a47604a318419c702f36345e42824b3cc",
+          "title": "Евросоюз раскритиковал санкции России против Украины",
+          "date": "2018-11-03",
+          "topic": "Бывший СССР",
+          "url": "https://lenta.ru/news/2018/11/03/a_nas_to_za_chto/",
+          "score": 0.8814378629074898,
+          "query_score": 0.8814378629074898,
+          "history_score": null
+        }
+      ],
+      "elapsed_seconds": 0.07083041699999981
+    }
+  },
+  {
+    "implementation": "st_semantic_search",
+    "query": "экономические санкции против России",
+    "result": {
+      "method": "st_semantic_search",
+      "query": "экономические санкции против России",
+      "mode": "query_only",
+      "status": "ok",
+      "history_used": [],
+      "effective_alpha": 1.0,
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_dce075eedced47fec33a0a24672d1b26dbc9789b3071dd11ecd5cd5813bf1923",
+          "title": "Подсчитаны потери российской экономики от санкций",
+          "date": "2018-11-16",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/11/16/sanctionsworking/",
+          "score": 0.8971177339553833,
+          "query_score": 0.8971177339553833,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_f67eb98f6ddba0e7ecc161bff369512b9ee2b50c12e595ec13ccc7c60e9662b4",
+          "title": "ЕС продлил экономические санкции против России",
+          "date": "2018-12-13",
+          "topic": "Мир",
+          "url": "https://lenta.ru/news/2018/12/13/sanctions/",
+          "score": 0.8948681354522705,
+          "query_score": 0.8948681354522705,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_e09f47eb193bb62b378d042fd56bbae0068685ce25453e198bbabb642fd83013",
+          "title": "Новые санкции США против России признали неэффективными",
+          "date": "2018-08-28",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/08/28/new_sanctions/",
+          "score": 0.8912553191184998,
+          "query_score": 0.8912553191184998,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_088f12b6730627edfc8ec7721b2e41f2e7d6a9de9ff423b1f81acb7d33437017",
+          "title": "Любой ответ на санкции США признали губительным для россиян",
+          "date": "2018-04-16",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/04/16/sanctions/",
+          "score": 0.8880752325057983,
+          "query_score": 0.8880752325057983,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_20e7cfbac47bd7eea466017cac0aca7ab00e445e5f767c3fb51afdb6d28083c3",
+          "title": "Санкции сорвали контракты России на 3 миллиарда долларов",
+          "date": "2018-02-21",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/02/21/gosdep/",
+          "score": 0.8871673345565796,
+          "query_score": 0.8871673345565796,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_cd070a046667f8116a3041fae139f8f90d973994658b64aafe7abb925cfc3798",
+          "title": "Политика российских властей оказалась страшнее санкций",
+          "date": "2018-07-10",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/07/10/sanctions_useless/",
+          "score": 0.8846125602722168,
+          "query_score": 0.8846125602722168,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_dcec53ec620e4342f823b05138766f009b3a295d69c47127d31b749ba4fead81",
+          "title": "Экономике России предрекли новый спад из-за санкций США",
+          "date": "2018-05-18",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/05/18/recession/",
+          "score": 0.8842523097991943,
+          "query_score": 0.8842523097991943,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_4ac81cd2f25b73a72a2bef1f5854df249ee6601ec418b8c5bf019641e741a251",
+          "title": "Раскрыты подробности новых санкций США против России",
+          "date": "2018-08-09",
+          "topic": "Экономика",
+          "url": "https://lenta.ru/news/2018/08/09/podrobnosti/",
+          "score": 0.8829770684242249,
+          "query_score": 0.8829770684242249,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_62a10aceee625bedc0abf7b811f89d8c193cd5c670d192a22ba87670c331d5d6",
+          "title": "Госдума приняла закон о контрсанкциях против США",
+          "date": "2018-05-22",
+          "topic": "Россия",
+          "url": "https://lenta.ru/news/2018/05/22/otvet/",
+          "score": 0.8819170594215393,
+          "query_score": 0.8819170594215393,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_9db3ca15c56f2f320872b343f755060a47604a318419c702f36345e42824b3cc",
+          "title": "Евросоюз раскритиковал санкции России против Украины",
+          "date": "2018-11-03",
+          "topic": "Бывший СССР",
+          "url": "https://lenta.ru/news/2018/11/03/a_nas_to_za_chto/",
+          "score": 0.8814378976821899,
+          "query_score": 0.8814378976821899,
+          "history_score": null
+        }
+      ]
+    }
+  },
+  {
+    "implementation": "prototype_e5_query_only",
+    "query": "чемпионат мира по футболу 2018",
+    "result": {
+      "method": "e5",
+      "query": "чемпионат мира по футболу 2018",
+      "history_considered": [],
+      "history_used": [],
+      "history_ignored_oov": [],
+      "alpha_requested": 1.0,
+      "effective_alpha": 1.0,
+      "mode": "query_only",
+      "status": "ok",
+      "messages": [],
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_2a73706f317ad57894306d1acff65492bfa62fa1bd0c120ee8f450f2d7ae7242",
+          "title": "Чемпионат мира в России назвали ненастоящим",
+          "date": "2018-11-22",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/11/22/venger/",
+          "score": 0.8956041997631798,
+          "query_score": 0.8956041997631798,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_5b9a5d22c38608dcea7400756c4040529f04696c9690cb4da6588ab893811d36",
+          "title": "Объявлена сборная ЧМ-2018 по версии болельщиков",
+          "date": "2018-07-25",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/07/25/best_players/",
+          "score": 0.8953279737605802,
+          "query_score": 0.8953279737605802,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_848bb9e2633beb634888e8f54c1377d20e281fa48aa7771ef1b5af90add11cbf",
+          "title": "Показан официальный видеоролик чемпионата мира в России",
+          "date": "2018-06-01",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/01/video_wc/",
+          "score": 0.8951873478459613,
+          "query_score": 0.8951873478459613,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_fd0af233f9b1eb810b1aa554e51be12388b048d1bb1a5ab39dd33e068e6fcfe8",
+          "title": "Назван лучший гол чемпионата мира в России",
+          "date": "2018-07-25",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/07/25/best_goal/",
+          "score": 0.8915730214112172,
+          "query_score": 0.8915730214112172,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_586bf15c7e460c763dcc8e4b50f13ea37b7a16c4f63f6be9ef5fee5e9c796931",
+          "title": "На чемпионате мира сыграна первая нулевая ничья",
+          "date": "2018-06-26",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/26/play_off/",
+          "score": 0.8913442488496253,
+          "query_score": 0.8913442488496253,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_0f6abd5874f67a29b1dbeb1454ee5a507f927c9e1ca629ef2437ac8b90d7cf59",
+          "title": "Чемпионат мира в России рекордно обогатит ФИФА",
+          "date": "2018-06-13",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/13/fifa_profit/",
+          "score": 0.890315885708072,
+          "query_score": 0.890315885708072,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_36fcc318c24552a9b897a2e37cb2c7801fd617bc8765a5d19ac4f3b31d842249",
+          "title": "Ученые назвали победителя ЧМ-2018 и предрекли провал России",
+          "date": "2018-06-01",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/06/01/wc/",
+          "score": 0.8891310469719086,
+          "query_score": 0.8891310469719086,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_29e1243823e89f75f0b56792cae9046018928bcc0d98e13cb345698fc6a9885c",
+          "title": "В России начался чемпионат мира по футболу",
+          "date": "2018-06-14",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/14/world_cup/",
+          "score": 0.8876885300013552,
+          "query_score": 0.8876885300013552,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_1a6b060e31b2de8370926eef070e1e7b39548ba02ca28d6bd35a5308da9e6919",
+          "title": "Выбран девиз сборной России на чемпионат мира по футболу",
+          "date": "2018-05-24",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/05/24/deviz/",
+          "score": 0.887652079471491,
+          "query_score": 0.887652079471491,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_da60d9d21a49327061d2ac8c125841ca12cf1a8edf6a046743523072cb2e1091",
+          "title": "Гегемонии Роналду и Месси пришел конец",
+          "date": "2018-09-24",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/09/24/modric/",
+          "score": 0.8874865426770996,
+          "query_score": 0.8874865426770996,
+          "history_score": null
+        }
+      ],
+      "elapsed_seconds": 0.05104766600000055
+    }
+  },
+  {
+    "implementation": "st_semantic_search",
+    "query": "чемпионат мира по футболу 2018",
+    "result": {
+      "method": "st_semantic_search",
+      "query": "чемпионат мира по футболу 2018",
+      "mode": "query_only",
+      "status": "ok",
+      "history_used": [],
+      "effective_alpha": 1.0,
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_2a73706f317ad57894306d1acff65492bfa62fa1bd0c120ee8f450f2d7ae7242",
+          "title": "Чемпионат мира в России назвали ненастоящим",
+          "date": "2018-11-22",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/11/22/venger/",
+          "score": 0.8956042528152466,
+          "query_score": 0.8956042528152466,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_5b9a5d22c38608dcea7400756c4040529f04696c9690cb4da6588ab893811d36",
+          "title": "Объявлена сборная ЧМ-2018 по версии болельщиков",
+          "date": "2018-07-25",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/07/25/best_players/",
+          "score": 0.8953279852867126,
+          "query_score": 0.8953279852867126,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_848bb9e2633beb634888e8f54c1377d20e281fa48aa7771ef1b5af90add11cbf",
+          "title": "Показан официальный видеоролик чемпионата мира в России",
+          "date": "2018-06-01",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/01/video_wc/",
+          "score": 0.8951873779296875,
+          "query_score": 0.8951873779296875,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_fd0af233f9b1eb810b1aa554e51be12388b048d1bb1a5ab39dd33e068e6fcfe8",
+          "title": "Назван лучший гол чемпионата мира в России",
+          "date": "2018-07-25",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/07/25/best_goal/",
+          "score": 0.8915730118751526,
+          "query_score": 0.8915730118751526,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_586bf15c7e460c763dcc8e4b50f13ea37b7a16c4f63f6be9ef5fee5e9c796931",
+          "title": "На чемпионате мира сыграна первая нулевая ничья",
+          "date": "2018-06-26",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/26/play_off/",
+          "score": 0.8913442492485046,
+          "query_score": 0.8913442492485046,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_0f6abd5874f67a29b1dbeb1454ee5a507f927c9e1ca629ef2437ac8b90d7cf59",
+          "title": "Чемпионат мира в России рекордно обогатит ФИФА",
+          "date": "2018-06-13",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/13/fifa_profit/",
+          "score": 0.8903158903121948,
+          "query_score": 0.8903158903121948,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_36fcc318c24552a9b897a2e37cb2c7801fd617bc8765a5d19ac4f3b31d842249",
+          "title": "Ученые назвали победителя ЧМ-2018 и предрекли провал России",
+          "date": "2018-06-01",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/06/01/wc/",
+          "score": 0.8891310691833496,
+          "query_score": 0.8891310691833496,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_29e1243823e89f75f0b56792cae9046018928bcc0d98e13cb345698fc6a9885c",
+          "title": "В России начался чемпионат мира по футболу",
+          "date": "2018-06-14",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/06/14/world_cup/",
+          "score": 0.8876885771751404,
+          "query_score": 0.8876885771751404,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_1a6b060e31b2de8370926eef070e1e7b39548ba02ca28d6bd35a5308da9e6919",
+          "title": "Выбран девиз сборной России на чемпионат мира по футболу",
+          "date": "2018-05-24",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/05/24/deviz/",
+          "score": 0.8876520991325378,
+          "query_score": 0.8876520991325378,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_da60d9d21a49327061d2ac8c125841ca12cf1a8edf6a046743523072cb2e1091",
+          "title": "Гегемонии Роналду и Месси пришел конец",
+          "date": "2018-09-24",
+          "topic": "Спорт",
+          "url": "https://lenta.ru/news/2018/09/24/modric/",
+          "score": 0.8874865174293518,
+          "query_score": 0.8874865174293518,
+          "history_score": null
+        }
+      ]
+    }
+  },
+  {
+    "implementation": "prototype_e5_query_only",
+    "query": "ипотека и покупка жилья",
+    "result": {
+      "method": "e5",
+      "query": "ипотека и покупка жилья",
+      "history_considered": [],
+      "history_used": [],
+      "history_ignored_oov": [],
+      "alpha_requested": 1.0,
+      "effective_alpha": 1.0,
+      "mode": "query_only",
+      "status": "ok",
+      "messages": [],
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_1d2698a922f5e56b9b30f5613a5b4f795c282b0064603df5abe4851b04e4efc4",
+          "title": "«Дом.рф» снизил ставки по ипотеке",
+          "date": "2018-06-09",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/06/09/mortgage/",
+          "score": 0.8806324765076289,
+          "query_score": 0.8806324765076289,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_7a3a2c023d24b8a0be87180435976105979534b9444be2b926e08c0c1db20104",
+          "title": "Обнищание россиян сказалось на ипотеке",
+          "date": "2018-02-19",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/02/19/hypo/",
+          "score": 0.8773315636180459,
+          "query_score": 0.8773315636180459,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_642328cca38e6bf77772bb58203aaeebe2cd6ff459ca025ce6dd7092e5d95548",
+          "title": "Россияне за восемь месяцев взяли почти миллион ипотечных кредитов",
+          "date": "2018-09-19",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/09/19/mortgage/",
+          "score": 0.8759551852061467,
+          "query_score": 0.8759551852061467,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_73b001252b36dd442ee717e10317e04e9c307ef33fd90be0cc7c8ea7c4463925",
+          "title": "Россияне начали влезать в долги ради покупки подержанного жилья",
+          "date": "2018-08-31",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/08/31/ipo/",
+          "score": 0.8745228360945347,
+          "query_score": 0.8745228360945347,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_4b60067703f08a4257aaecf90f4b9d4ca7c3ab11d4c2935db85affab6d5c7039",
+          "title": "Россияне нацелились на улучшение жилищных условий",
+          "date": "2018-04-28",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/04/28/dom/",
+          "score": 0.8730596824859631,
+          "query_score": 0.8730596824859631,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_176c66bf60120f575a654eaade6ac38ba5af98c02a0a446581c16d0069ab4828",
+          "title": "Сбербанк повысил ипотечные ставки",
+          "date": "2018-10-22",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/10/22/mortgage/",
+          "score": 0.8722965762006009,
+          "query_score": 0.8722965762006009,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_dfc02b93b4b576f6cd19c785a0b66d35c0ad957e75f95fad9c8854eafefc3408",
+          "title": "Россиян уличили в любви к торгу при покупке жилья",
+          "date": "2018-02-08",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/02/08/buy/",
+          "score": 0.8719028996793945,
+          "query_score": 0.8719028996793945,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_1f126456a770f88bcd9989d987e28a077567fe52bd35aff162918cddf68420f0",
+          "title": "Ипотечное бремя россиян стало легче",
+          "date": "2018-09-07",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/09/07/mortgage/",
+          "score": 0.8711519872846432,
+          "query_score": 0.8711519872846432,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_baf7238fafbf9af953f0397b15d9cce52dcc0747e1d997f7b5b9b1c2bc369e31",
+          "title": "Россиянам начали выдавать льготную ипотеку",
+          "date": "2018-01-31",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/01/31/ipo/",
+          "score": 0.8702056427991076,
+          "query_score": 0.8702056427991076,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_1264a9610a8dd72082d4565fa803abdcd7ca5663089dc1e0ca0efc90872ef4df",
+          "title": "Россиянам посоветовали скорее покупать квартиры",
+          "date": "2018-09-19",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/09/19/buynow/",
+          "score": 0.8696825582669709,
+          "query_score": 0.8696825582669709,
+          "history_score": null
+        }
+      ],
+      "elapsed_seconds": 0.07051658399999994
+    }
+  },
+  {
+    "implementation": "st_semantic_search",
+    "query": "ипотека и покупка жилья",
+    "result": {
+      "method": "st_semantic_search",
+      "query": "ипотека и покупка жилья",
+      "mode": "query_only",
+      "status": "ok",
+      "history_used": [],
+      "effective_alpha": 1.0,
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_1d2698a922f5e56b9b30f5613a5b4f795c282b0064603df5abe4851b04e4efc4",
+          "title": "«Дом.рф» снизил ставки по ипотеке",
+          "date": "2018-06-09",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/06/09/mortgage/",
+          "score": 0.8806325197219849,
+          "query_score": 0.8806325197219849,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_7a3a2c023d24b8a0be87180435976105979534b9444be2b926e08c0c1db20104",
+          "title": "Обнищание россиян сказалось на ипотеке",
+          "date": "2018-02-19",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/02/19/hypo/",
+          "score": 0.877331554889679,
+          "query_score": 0.877331554889679,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_642328cca38e6bf77772bb58203aaeebe2cd6ff459ca025ce6dd7092e5d95548",
+          "title": "Россияне за восемь месяцев взяли почти миллион ипотечных кредитов",
+          "date": "2018-09-19",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/09/19/mortgage/",
+          "score": 0.8759552240371704,
+          "query_score": 0.8759552240371704,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_73b001252b36dd442ee717e10317e04e9c307ef33fd90be0cc7c8ea7c4463925",
+          "title": "Россияне начали влезать в долги ради покупки подержанного жилья",
+          "date": "2018-08-31",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/08/31/ipo/",
+          "score": 0.8745228052139282,
+          "query_score": 0.8745228052139282,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_4b60067703f08a4257aaecf90f4b9d4ca7c3ab11d4c2935db85affab6d5c7039",
+          "title": "Россияне нацелились на улучшение жилищных условий",
+          "date": "2018-04-28",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/04/28/dom/",
+          "score": 0.8730596899986267,
+          "query_score": 0.8730596899986267,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_176c66bf60120f575a654eaade6ac38ba5af98c02a0a446581c16d0069ab4828",
+          "title": "Сбербанк повысил ипотечные ставки",
+          "date": "2018-10-22",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/10/22/mortgage/",
+          "score": 0.8722965717315674,
+          "query_score": 0.8722965717315674,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_dfc02b93b4b576f6cd19c785a0b66d35c0ad957e75f95fad9c8854eafefc3408",
+          "title": "Россиян уличили в любви к торгу при покупке жилья",
+          "date": "2018-02-08",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/02/08/buy/",
+          "score": 0.8719029426574707,
+          "query_score": 0.8719029426574707,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_1f126456a770f88bcd9989d987e28a077567fe52bd35aff162918cddf68420f0",
+          "title": "Ипотечное бремя россиян стало легче",
+          "date": "2018-09-07",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/09/07/mortgage/",
+          "score": 0.8711519837379456,
+          "query_score": 0.8711519837379456,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_baf7238fafbf9af953f0397b15d9cce52dcc0747e1d997f7b5b9b1c2bc369e31",
+          "title": "Россиянам начали выдавать льготную ипотеку",
+          "date": "2018-01-31",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/01/31/ipo/",
+          "score": 0.8702056407928467,
+          "query_score": 0.8702056407928467,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_1264a9610a8dd72082d4565fa803abdcd7ca5663089dc1e0ca0efc90872ef4df",
+          "title": "Россиянам посоветовали скорее покупать квартиры",
+          "date": "2018-09-19",
+          "topic": "Дом",
+          "url": "https://lenta.ru/news/2018/09/19/buynow/",
+          "score": 0.8696825504302979,
+          "query_score": 0.8696825504302979,
+          "history_score": null
+        }
+      ]
+    }
+  },
+  {
+    "implementation": "prototype_e5_query_only",
+    "query": "запуски космических ракет",
+    "result": {
+      "method": "e5",
+      "query": "запуски космических ракет",
+      "history_considered": [],
+      "history_used": [],
+      "history_ignored_oov": [],
+      "alpha_requested": 1.0,
+      "effective_alpha": 1.0,
+      "mode": "query_only",
+      "status": "ok",
+      "messages": [],
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_fe7cd177576dcab08a3ac9d4e0957054d53ce6510636af2fec44129bd3544e0c",
+          "title": "SpaceX впервые запустила сверхтяжелую ракету Falcon Heavy",
+          "date": "2018-02-06",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/06/heavy/",
+          "score": 0.8681098130052002,
+          "query_score": 0.8681098130052002,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_41b1402a6c538392c3c5d88a170cde2d7097a88662f0c620ce80fff51c823e42",
+          "title": "США по-новому запустят ракеты",
+          "date": "2018-02-26",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/26/spinlaunch/",
+          "score": 0.8668304725176361,
+          "query_score": 0.8668304725176361,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_c2ff32891b55e15efee2dc3b0e0d3fb9995d02d955a7b98b6d753f5a08453448",
+          "title": "Взрыв японской ракеты попал на видео",
+          "date": "2018-06-30",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/06/30/boom/",
+          "score": 0.86565286885398,
+          "query_score": 0.86565286885398,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_3a1acb113fcde94d8617484a0670d3e9bb2ed2393effdb0abb0c790b21545e73",
+          "title": "США запустят против России развалившую СССР программу",
+          "date": "2018-07-27",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/27/sw/",
+          "score": 0.865498081345573,
+          "query_score": 0.865498081345573,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_c858c5d60c32c258efa2a77819837f9af3983bd64b972d6cff28624053b0fb24",
+          "title": "В США отменили запуск ракеты Atlas V с военным спутником",
+          "date": "2018-01-19",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/19/atlas_v/",
+          "score": 0.8607758029189317,
+          "query_score": 0.8607758029189317,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_28309a1acb1e4e8317ea61d679eb11decb1ce5d77d5eabc15ff7f743401684c9",
+          "title": "На Украине испытали пожирающую саму себя ракету",
+          "date": "2018-06-04",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/06/04/rocket/",
+          "score": 0.8591448065162053,
+          "query_score": 0.8591448065162053,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_2c4db85047709480f17d62b1fbbca1edc1192a065b16cbe6947368712efc8455",
+          "title": "Ракета Илона Маска погубила секретный спутник США",
+          "date": "2018-01-09",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/09/sputnik/",
+          "score": 0.8591367446177081,
+          "query_score": 0.8591367446177081,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_c073c2c6b73816bb37c34998f512fe0c16dc90137273acb09f6444f4e65ce3b1",
+          "title": "SpaceX в 50-й раз запустила Falcon 9",
+          "date": "2018-03-06",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/03/06/falcon/",
+          "score": 0.8588670898097821,
+          "query_score": 0.8588670898097821,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_a895dc7640225129a8154cc61e155c233a368b27aac023c9b2e021d885fcd7f1",
+          "title": "Взорван стартовый комплекс мыса Канаверал",
+          "date": "2018-07-13",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/13/slc17/",
+          "score": 0.8585648853350007,
+          "query_score": 0.8585648853350007,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_150617009e9d12185f1399f326cc8c0fad49a4050978363b3b12a718a2907dc6",
+          "title": "Ракеты Ariane 5 и Falcon 9 одновременно стартовали",
+          "date": "2018-07-25",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/25/launch/",
+          "score": 0.8578459878978346,
+          "query_score": 0.8578459878978346,
+          "history_score": null
+        }
+      ],
+      "elapsed_seconds": 0.048909333000001
+    }
+  },
+  {
+    "implementation": "st_semantic_search",
+    "query": "запуски космических ракет",
+    "result": {
+      "method": "st_semantic_search",
+      "query": "запуски космических ракет",
+      "mode": "query_only",
+      "status": "ok",
+      "history_used": [],
+      "effective_alpha": 1.0,
+      "items": [
+        {
+          "rank": 1,
+          "article_id": "lenta_fe7cd177576dcab08a3ac9d4e0957054d53ce6510636af2fec44129bd3544e0c",
+          "title": "SpaceX впервые запустила сверхтяжелую ракету Falcon Heavy",
+          "date": "2018-02-06",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/06/heavy/",
+          "score": 0.8681098222732544,
+          "query_score": 0.8681098222732544,
+          "history_score": null
+        },
+        {
+          "rank": 2,
+          "article_id": "lenta_41b1402a6c538392c3c5d88a170cde2d7097a88662f0c620ce80fff51c823e42",
+          "title": "США по-новому запустят ракеты",
+          "date": "2018-02-26",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/02/26/spinlaunch/",
+          "score": 0.8668304681777954,
+          "query_score": 0.8668304681777954,
+          "history_score": null
+        },
+        {
+          "rank": 3,
+          "article_id": "lenta_c2ff32891b55e15efee2dc3b0e0d3fb9995d02d955a7b98b6d753f5a08453448",
+          "title": "Взрыв японской ракеты попал на видео",
+          "date": "2018-06-30",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/06/30/boom/",
+          "score": 0.865652859210968,
+          "query_score": 0.865652859210968,
+          "history_score": null
+        },
+        {
+          "rank": 4,
+          "article_id": "lenta_3a1acb113fcde94d8617484a0670d3e9bb2ed2393effdb0abb0c790b21545e73",
+          "title": "США запустят против России развалившую СССР программу",
+          "date": "2018-07-27",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/27/sw/",
+          "score": 0.8654980659484863,
+          "query_score": 0.8654980659484863,
+          "history_score": null
+        },
+        {
+          "rank": 5,
+          "article_id": "lenta_c858c5d60c32c258efa2a77819837f9af3983bd64b972d6cff28624053b0fb24",
+          "title": "В США отменили запуск ракеты Atlas V с военным спутником",
+          "date": "2018-01-19",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/19/atlas_v/",
+          "score": 0.8607757687568665,
+          "query_score": 0.8607757687568665,
+          "history_score": null
+        },
+        {
+          "rank": 6,
+          "article_id": "lenta_28309a1acb1e4e8317ea61d679eb11decb1ce5d77d5eabc15ff7f743401684c9",
+          "title": "На Украине испытали пожирающую саму себя ракету",
+          "date": "2018-06-04",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/06/04/rocket/",
+          "score": 0.8591448068618774,
+          "query_score": 0.8591448068618774,
+          "history_score": null
+        },
+        {
+          "rank": 7,
+          "article_id": "lenta_2c4db85047709480f17d62b1fbbca1edc1192a065b16cbe6947368712efc8455",
+          "title": "Ракета Илона Маска погубила секретный спутник США",
+          "date": "2018-01-09",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/01/09/sputnik/",
+          "score": 0.859136700630188,
+          "query_score": 0.859136700630188,
+          "history_score": null
+        },
+        {
+          "rank": 8,
+          "article_id": "lenta_c073c2c6b73816bb37c34998f512fe0c16dc90137273acb09f6444f4e65ce3b1",
+          "title": "SpaceX в 50-й раз запустила Falcon 9",
+          "date": "2018-03-06",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/03/06/falcon/",
+          "score": 0.8588670492172241,
+          "query_score": 0.8588670492172241,
+          "history_score": null
+        },
+        {
+          "rank": 9,
+          "article_id": "lenta_a895dc7640225129a8154cc61e155c233a368b27aac023c9b2e021d885fcd7f1",
+          "title": "Взорван стартовый комплекс мыса Канаверал",
+          "date": "2018-07-13",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/13/slc17/",
+          "score": 0.8585648536682129,
+          "query_score": 0.8585648536682129,
+          "history_score": null
+        },
+        {
+          "rank": 10,
+          "article_id": "lenta_150617009e9d12185f1399f326cc8c0fad49a4050978363b3b12a718a2907dc6",
+          "title": "Ракеты Ariane 5 и Falcon 9 одновременно стартовали",
+          "date": "2018-07-25",
+          "topic": "Наука и техника",
+          "url": "https://lenta.ru/news/2018/07/25/launch/",
+          "score": 0.8578460216522217,
+          "query_score": 0.8578460216522217,
+          "history_score": null
+        }
+      ]
+    }
+  }
+]

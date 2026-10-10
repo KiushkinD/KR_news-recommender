@@ -1,0 +1,15 @@
+﻿context_type,config_id,n_runs,n_nonempty,n_empty,nonempty_fraction
+broad,e5_personalized,4,4,0,1.0
+broad,e5_query_only,4,4,0,1.0
+broad,tfidf_personalized,4,4,0,1.0
+broad,tfidf_query_only,4,4,0,1.0
+history_aligned,e5_personalized,4,4,0,1.0
+history_aligned,e5_query_only,4,4,0,1.0
+history_aligned,tfidf_personalized,4,4,0,1.0
+history_aligned,tfidf_query_only,4,4,0,1.0
+history_conflict,e5_personalized,4,4,0,1.0
+history_conflict,e5_query_only,4,4,0,1.0
+history_conflict,tfidf_personalized,4,4,0,1.0
+history_conflict,tfidf_query_only,4,4,0,1.0
+history_only,e5_personalized,4,4,0,1.0
+history_only,tfidf_personalized,4,3,1,0.75

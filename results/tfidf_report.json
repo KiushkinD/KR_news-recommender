@@ -1,0 +1,55 @@
+{
+  "method": "word TF-IDF",
+  "corpus_size": 43950,
+  "shared_text_path": "/Users/denis/Desktop/news-recommender/data/processed/news_2018_model_text.csv",
+  "corpus_model_text_sha256": "b8f10b63667bebec74ae95a337c84d860a5cbb37df9472dfe66e9f207cbcef03",
+  "article_ids_path": "/Users/denis/Desktop/news-recommender/models/news_article_ids.json",
+  "vectorizer_path": "/Users/denis/Desktop/news-recommender/models/tfidf_vectorizer.joblib",
+  "matrix_path": "/Users/denis/Desktop/news-recommender/models/news_tfidf.npz",
+  "vectorizer_parameters": {
+    "analyzer": "word",
+    "binary": false,
+    "decode_error": "strict",
+    "dtype": "float32",
+    "encoding": "utf-8",
+    "input": "content",
+    "lowercase": true,
+    "max_df": 0.95,
+    "max_features": 100000,
+    "min_df": 2,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "norm": "l2",
+    "preprocessor": null,
+    "smooth_idf": true,
+    "stop_words": null,
+    "strip_accents": null,
+    "sublinear_tf": true,
+    "token_pattern": "(?u)\\b\\w\\w+\\b",
+    "tokenizer": null,
+    "use_idf": true,
+    "vocabulary": null
+  },
+  "vocabulary_size": 100000,
+  "matrix_shape": [
+    43950,
+    100000
+  ],
+  "matrix_format": "csr",
+  "matrix_dtype": "float32",
+  "nonzero_entries": 5750289,
+  "matrix_density": 0.0013083706484641638,
+  "csr_memory_bytes": 46178116,
+  "zero_rows": 0,
+  "zero_row_article_ids": [],
+  "fit_seconds": 8.095636792,
+  "versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.0.2",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.13.1",
+    "joblib": "1.5.3"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "experiment": "additional comparison of adapted exact semantic search",
+  "created_at_utc": "2026-10-10T02:05:30.522073+00:00",
+  "source_url": "https://sbert.net/examples/sentence_transformer/applications/semantic-search/README.html",
+  "corpus_size": 43950,
+  "n_unique_queries": 6,
+  "n_contexts": 12,
+  "repeats": 10,
+  "model": "intfloat/multilingual-e5-small",
+  "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "max_seq_length": 256,
+  "encoder_device": "mps:0",
+  "ranking_device": "cpu",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "python": "3.9.6",
+  "versions": {
+    "numpy": "2.0.2",
+    "torch": "2.8.0",
+    "sentence-transformers": "5.1.2"
+  },
+  "torch_cpu_threads": 4,
+  "input_sha256": {
+    "test_scenarios.json": "998ee4f5773cc1d2dd9d6f328c0d5044592634a2e58a730183af33ab24653eff",
+    "test_runs.json": "e2ee66be721d1e794dd82fe9ff903f283a82d24640272bf24d8441141f37cd65",
+    "test_pool_manifest.json": "74071d20f766ce9cd40ea031e623e055d18f1f9e303dc5d5122b12827fcff089",
+    "test_annotations.csv": "6a4784b322920b8cc7011bacbef5a38d20a7eb64c1be9145a975a8977c75843e"
+  },
+  "inputs_unchanged": true,
+  "matches_frozen_all_contexts": true,
+  "timings": {
+    "prototype_e5_query_only": {
+      "calls": 60,
+      "mean_ms": 46.95917291666669,
+      "median_ms": 47.65408350000033,
+      "p95_ms": 48.8084399000007
+    },
+    "st_semantic_search": {
+      "calls": 60,
+      "mean_ms": 16.895366733333155,
+      "median_ms": 17.765541999999357,
+      "p95_ms": 18.791604499999526
+    }
+  },
+  "quality": [
+    {
+      "context_type": "broad",
+      "implementation": "prototype_e5_query_only",
+      "criterion": "query_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.5,
+      "precision_at_10": 0.6,
+      "ndcg_at_10": 0.6387472801434152
+    },
+    {
+      "context_type": "broad",
+      "implementation": "prototype_e5_query_only",
+      "criterion": "user_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.15000000000000002,
+      "precision_at_10": 0.175,
+      "ndcg_at_10": 0.4469265265226554
+    },
+    {
+      "context_type": "broad",
+      "implementation": "st_semantic_search",
+      "criterion": "query_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.5,
+      "precision_at_10": 0.6,
+      "ndcg_at_10": 0.6387472801434152
+    },
+    {
+      "context_type": "broad",
+      "implementation": "st_semantic_search",
+      "criterion": "user_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.15000000000000002,
+      "precision_at_10": 0.175,
+      "ndcg_at_10": 0.4469265265226554
+    },
+    {
+      "context_type": "history_aligned",
+      "implementation": "prototype_e5_query_only",
+      "criterion": "query_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.75,
+      "precision_at_10": 0.75,
+      "ndcg_at_10": 0.8773900868468406
+    },
+    {
+      "context_type": "history_aligned",
+      "implementation": "prototype_e5_query_only",
+      "criterion": "user_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.7000000000000001,
+      "precision_at_10": 0.675,
+      "ndcg_at_10": 0.8534708330191264
+    },
+    {
+      "context_type": "history_aligned",
+      "implementation": "st_semantic_search",
+      "criterion": "query_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.75,
+      "precision_at_10": 0.75,
+      "ndcg_at_10": 0.8773900868468406
+    },
+    {
+      "context_type": "history_aligned",
+      "implementation": "st_semantic_search",
+      "criterion": "user_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.7000000000000001,
+      "precision_at_10": 0.675,
+      "ndcg_at_10": 0.8534708330191264
+    },
+    {
+      "context_type": "history_conflict",
+      "implementation": "prototype_e5_query_only",
+      "criterion": "query_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.75,
+      "precision_at_10": 0.75,
+      "ndcg_at_10": 0.8773900868468406
+    },
+    {
+      "context_type": "history_conflict",
+      "implementation": "prototype_e5_query_only",
+      "criterion": "user_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "ndcg_at_10": 0.9840948029502621
+    },
+    {
+      "context_type": "history_conflict",
+      "implementation": "st_semantic_search",
+      "criterion": "query_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.75,
+      "precision_at_10": 0.75,
+      "ndcg_at_10": 0.8773900868468406
+    },
+    {
+      "context_type": "history_conflict",
+      "implementation": "st_semantic_search",
+      "criterion": "user_relevance",
+      "n_contexts": 4,
+      "n_fully_judged": 4,
+      "precision_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "ndcg_at_10": 0.9840948029502621
+    }
+  ],
+  "limitations": [
+    "External component is the library function adapted to shared E5 resources, not a news website.",
+    "Query encoding and metadata retrieval are included; loading, tensor preparation and UI are excluded.",
+    "Prototype uses float64 accumulation and a full ID-aware sort; library search uses float32 top-k.",
+    "Ties and small floating-point differences can change top-k order.",
+    "No quality mean is reported for a group with unjudged returned articles.",
+    "Usability with participants, feed support of the external example and NRMS training are not measured."
+  ]
+}

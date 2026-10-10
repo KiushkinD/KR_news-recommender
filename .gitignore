@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Models and embeddings
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+# Local HTML reports with full article texts
+results/**/development_comparison.html
+/results/archive/
+/docs/demonstration.md
+/docs/evaluation_validation.md
+/docs/validation.md
+/requirements-lock.txt

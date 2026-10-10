@@ -1,0 +1,12 @@
+# Core dependencies. Python 3.9.6, macOS arm64 were used for the experiment.
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+scikit-learn==1.6.1
+joblib==1.5.3
+torch==2.8.0
+sentence-transformers==5.1.2
+transformers==4.57.6
+tokenizers==0.22.2
+huggingface-hub==0.36.2
+streamlit==1.49.1

@@ -1,0 +1,32 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "device": "mps",
+  "architecture": "arm64",
+  "macos": "26.6.2",
+  "python": "3.9.6",
+  "versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.0.2",
+    "torch": "2.8.0",
+    "sentence-transformers": "5.1.2",
+    "transformers": "4.57.6"
+  },
+  "corpus_path": "/Users/denis/Desktop/news-recommender/data/processed/news_2018.csv",
+  "corpus_size": 43950,
+  "sample_size": 1000,
+  "sample_seed": 42,
+  "sample_id_sha256": "822d479cd6c6f95fe6a0274220a5a7bdcc618c81fe7de8e099846d92207c71cf",
+  "text_format": "passage: <title>\\n<text>; right truncation by encoder tokenizer",
+  "max_seq_length": 256,
+  "batch_size": 16,
+  "normalized_embeddings": true,
+  "embedding_dim": 384,
+  "embedding_dtype": "float32",
+  "model_load_seconds": 225.26920541700002,
+  "warmup_seconds": 1.1399541250000311,
+  "encode_seconds": 6.352224250000006,
+  "articles_per_second": 157.42517276527178,
+  "projected_full_encode_seconds": 279.1802557875003,
+  "estimate_note": "Linear extrapolation; excludes loading, corpus I/O and saving. Sustained performance may differ."
+}
